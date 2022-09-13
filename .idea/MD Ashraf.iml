@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/AppData/Local/Programs/Python/Python39/Lib" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/AppData/Local/Programs/Python/Python39/Lib/site-packages" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (venv)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
