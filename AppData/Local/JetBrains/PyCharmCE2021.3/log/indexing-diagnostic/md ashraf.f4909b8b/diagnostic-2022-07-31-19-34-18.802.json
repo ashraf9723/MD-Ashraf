@@ -1,0 +1,225 @@
+{
+  "appInfo" : {
+    "build" : "213.5744.248",
+    "buildDate" : "2021-11-30T09:06:55.064Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2022-07-31T14:04:18.8020882Z",
+    "os" : "Windows 11 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.13 11.0.13+7-b1751.19"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1052770304,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "voice.py",
+    "times" : {
+      "indexingReason" : "On project open",
+      "totalUpdatingTime" : 13521273800,
+      "indexingTime" : 172737000,
+      "contentLoadingTime" : 5528304,
+      "scanFilesTime" : 13059301400,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2022-07-31T14:04:05.2798031Z",
+      "updatingEnd" : "2022-07-31T14:04:18.8020882Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 5,
+      "numberOfScannedFiles" : 145893,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 56,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 44
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 360447700,
+        "total" : 542540000
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 16596900,
+        "total" : 20005900
+      },
+      "totalNumberOfFiles" : 38,
+      "totalFilesSize" : 138820,
+      "indexingSpeed" : {
+        "totalBytes" : 138820,
+        "totalTime" : 360447700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'MD Ashraf' (MD Ashraf)",
+        "numberOfFiles" : 38,
+        "totalFilesSize" : 138820,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 360447700,
+          "total" : 360447700
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 182092300,
+        "total" : 542540000
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3409000,
+        "total" : 20005900
+      },
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : 11612,
+      "indexingSpeed" : {
+        "totalBytes" : 11612,
+        "totalTime" : 182092300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'MD Ashraf' (MD Ashraf)",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : 11612,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 182092300,
+          "total" : 182092300
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 160139900,
+        "total" : 317092400
+      },
+      "totalNumberOfFiles" : 44,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 150432,
+      "indexingSpeed" : {
+        "totalBytes" : 150432,
+        "totalTime" : 160139900
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 90626900,
+        "total" : 317092400
+      },
+      "totalNumberOfFiles" : 44,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 150432,
+      "indexingSpeed" : {
+        "totalBytes" : 150432,
+        "totalTime" : 90626900
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 66133000,
+        "total" : 317092400
+      },
+      "totalNumberOfFiles" : 44,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 150432,
+      "indexingSpeed" : {
+        "totalBytes" : 150432,
+        "totalTime" : 66133000
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "filetypes",
+      "partOfTotalIndexingTime" : {
+        "part" : 192600,
+        "total" : 317092400
+      },
+      "totalNumberOfFiles" : 38,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 138820,
+      "indexingSpeed" : {
+        "totalBytes" : 138820,
+        "totalTime" : 192600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'MD Ashraf' (MD Ashraf)",
+      "numberOfScannedFiles" : 145679,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 56,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 6347530900,
+      "timeProcessingUpToDateFiles" : 1374416300,
+      "timeUpdatingContentLessIndexes" : 378027700,
+      "timeIndexingWithoutContent" : 1950500
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@21b6e886' (non-project)",
+      "numberOfScannedFiles" : 214,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 363662900,
+      "timeProcessingUpToDateFiles" : 45020700,
+      "timeUpdatingContentLessIndexes" : 3025000,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@21b6e886' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'MD Ashraf' (MD Ashraf)",
+      "totalNumberOfIndexedFiles" : 44,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 149922100,
+      "contentLoadingTime" : 5528304,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ]
+    } ]
+  }
+}
